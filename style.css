@@ -183,13 +183,11 @@ text-decoration: none;
 }
 
 .contact-title {
-    font-size: 2em;
     grid-area: title;
     padding-bottom: 50px;
     color: white;
     font-size: 50px;
-    font-weight: lighter;
-  
+    font-weight: lighter 
 }
 
 .logo-svg {
@@ -199,7 +197,7 @@ text-decoration: none;
 
 .contact-wrapper {
     grid-area: wrapper;
-    color: white;
+    color: white ;
     font-size: 25px;
 }
 .contact a{
