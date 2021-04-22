@@ -129,7 +129,7 @@ nav{
 
 /* ABOUT ME CSS*/
 .about-me {
-    height: 100vh !important;
+    height: 75vh !important;
     background-color: #e9d0c9 !important;
     padding: 20vh 50px 0 50px;
     column-count: 2;
@@ -137,15 +137,26 @@ nav{
 
 .about-me img{
   width: 60%;
-  border-radius: 8%;
+  border-radius: 0%;
   margin-bottom: 4em;
 }
 
 .about-me p{
   text-align: left;
-  font-size:1em;
-  line-height: 1.5rem;
+  font-size: 28px;
+  line-height: 33px;
+  color: white;
+  padding: 5px;
+  
 }
+
+.about-me a{
+color:#b98e81 ;
+text-decoration: none;
+
+}
+
+
 .paragraph2{
   text-indent: 2em;
 }
@@ -175,17 +186,26 @@ nav{
     font-size: 2em;
     grid-area: title;
     padding-bottom: 50px;
+    color: white;
+    font-size: 50px;
+    font-weight: lighter;
+  
 }
 
 .logo-svg {
-    width: 400px;
+    width: 300px;
     grid-area: logo;
 }
 
 .contact-wrapper {
     grid-area: wrapper;
+    color: white;
+    font-size: 25px;
 }
-
+.contact a{
+  text-decoration: none;
+  color: #676767;
+}
 
    /* footer section */
    footer{
