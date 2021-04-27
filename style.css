@@ -157,6 +157,12 @@ font-weight: 900;
   
   
 }
+.about-me h1{
+  color: white;
+  font-weight: 100;
+  font-size: 50px;
+  padding-bottom: 5%;
+}
 
 .about-me a{
 color:#b98e81 ;
@@ -281,7 +287,7 @@ font-weight: 300;
  @media (max-width:735px){
      nav {
          padding-left: 0;
-         font-size: 40%;
+         font-size: 38%;
     }
 
      .welcome{
@@ -316,12 +322,14 @@ font-weight: 300;
      }
     .about-me p{
       font-size: 12px;
-      padding: 20px;
+      padding: 10px;
     }
 
     .about-me img{
       width: 150px;
-      padding: 0px;
+      padding: 10px;
     }
-   
+   .about-me h1{
+     font-size: 20px;
+   }
   }
