@@ -339,5 +339,6 @@ font-weight: 300;
    .about-me h1{
      font-size: 21px;
      padding:10px;
+     position: fixed;
    }
   }
