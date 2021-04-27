@@ -281,7 +281,7 @@ font-weight: 300;
  @media (max-width:735px){
      nav {
          padding-left: 0;
-         font-size: 60%;
+         font-size: 40%;
     }
 
      .welcome{
@@ -305,6 +305,7 @@ font-weight: 300;
     .contact {
         padding-bottom: 200%;
         grid-template-columns: 2fr minmax(2fr, 1fr) 3fr;
+        height: 0vh !important;
         grid-template-rows:inherit;
         grid-template-areas:
         ". title ."
@@ -314,7 +315,7 @@ font-weight: 300;
         text-align: center;
      }
     .about-me p{
-      font-size: 15px;
+      font-size: 12px;
     }
 
     .about-me img{
