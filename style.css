@@ -287,7 +287,7 @@ font-weight: 300;
  @media (max-width:735px){
      nav {
          padding-left: 0;
-         font-size: 41%;
+         font-size: 12px;
     }
 
      .welcome{
@@ -329,7 +329,7 @@ font-weight: 300;
       font-size: 13px;
       padding: 0px;
       column-count:1;
-      position: fixed;
+      
     }
 
     .about-me img{
@@ -339,6 +339,6 @@ font-weight: 300;
    .about-me h1{
      font-size: 20px;
      padding:0px;
-     position: fixed;
+     
    }
   }
