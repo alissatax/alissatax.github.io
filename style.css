@@ -328,6 +328,8 @@ font-weight: 300;
     .about-me p{
       font-size: 13px;
       padding: 10px;
+      column-count:1;
+      position: fixed;
     }
 
     .about-me img{
