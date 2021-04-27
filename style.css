@@ -281,7 +281,7 @@ font-weight: 300;
  @media (max-width:735px){
      nav {
          padding-left: 0;
-         font-size: 40%;
+         font-size: 38%;
     }
 
      .welcome{
@@ -316,10 +316,12 @@ font-weight: 300;
      }
     .about-me p{
       font-size: 12px;
+      padding: 10px;
     }
 
     .about-me img{
       width: 150px;
+      padding: 10px;
     }
    
   }
