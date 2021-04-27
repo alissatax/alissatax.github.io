@@ -327,7 +327,7 @@ font-weight: 300;
     
     .about-me p{
       font-size: 13px;
-      padding: 10px;
+      padding: 0px;
       column-count:1;
       position: fixed;
     }
@@ -337,8 +337,8 @@ font-weight: 300;
       padding: 10px;
     }
    .about-me h1{
-     font-size: 21px;
-     padding:10px;
+     font-size: 20px;
+     padding:0px;
      position: fixed;
    }
   }
