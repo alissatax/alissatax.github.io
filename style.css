@@ -327,7 +327,7 @@ font-weight: 300;
     }
     .about-me{
       display:grid;
-      height: 115vh !important;
+      height: 100vh !important;
       grid-template-rows:inherit;
       grid-template-columns: minmax(2fr, 1fr) 1fr;
       grid-template-rows:
