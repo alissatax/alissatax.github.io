@@ -328,6 +328,7 @@ font-weight: 300;
     .about-me{
       display: grid;
       height: 100vh !important;
+      grid-display-rows: inherit;
       grid-template-columns: 1fr minmax(400px, 1fr) 1fr;
       grid-template-areas:
       ". img ."
