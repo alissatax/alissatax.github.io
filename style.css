@@ -288,6 +288,7 @@ font-weight: 300;
      nav {
          padding-left: 0;
          font-size: 8px;
+        
     }
 
      .welcome{
@@ -335,7 +336,7 @@ font-weight: 300;
     .about-me img{
       width: 150px;
       padding: 68px;
-      left: 0;
+      left: -5;
     }
     
    .about-me h1{
