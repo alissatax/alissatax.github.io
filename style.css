@@ -325,24 +325,35 @@ font-weight: 300;
     .contact-title{
        font-size:30px
     }
+    .about-me{
+      display: grid;
+      grid-template-rows: 3fr;
+      height: 100vh !important;
+      grid-template-columns: 1fr;
+      grid-template-areas:
+      ". img ."
+      ". h1 ."
+      ". p . "
+      ;
+    } 
     
     .about-me p{
       font-size: 13px;
-      padding: 3px;
+      padding: 0px;
       column-count:1;
-      position: relative;
+      text-align:center;
       
     }
 
     .about-me img{
-      width: 150px;
-      padding: 68px;
-      left: -5px;
+      width: 100%;
+      padding: 0px;
+      align-content:center;
     }
     
    .about-me h1{
      font-size: 15px;
-     padding:5px;
+     text-align:center;
      
    }
   }
