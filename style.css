@@ -335,7 +335,7 @@ font-weight: 300;
     .about-me img{
       width: 150px;
       padding: 68px;
-      position:relative;
+      left: 0;
     }
     
    .about-me h1{
