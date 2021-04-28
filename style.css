@@ -330,6 +330,7 @@ font-weight: 300;
       font-size: 13px;
       padding: 3px;
       column-count:1;
+      position: relative;
       
     }
 
